@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PDUBB3/team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PDUBB3/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/PDUBB3/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
