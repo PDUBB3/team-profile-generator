@@ -1,5 +1,9 @@
 const inquirer = require("inquirer");
 
+const Manager = require("./lib/manager");
+
+const employees = [];
+
 const addManager = async () => {
   const managerQuestions = [
     {
@@ -25,7 +29,15 @@ const addManager = async () => {
   ];
 
   const answers = await inquirer.prompt(managerQuestions);
-  console.log(answers);
+
+  const manager = new Manager(
+    answers.id,
+    answers.name,
+    answers.email,
+    answers.officeNumber
+  );
+
+  employees.push(manager);
 };
 
 const addEmployees = async () => {};
