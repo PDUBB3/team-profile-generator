@@ -88,4 +88,4 @@ Click [here](./dist/team.html) to view example of readme file generated
 ## Walkthrough Video
 
 Click [here](https://drive.google.com/file/d/15PH2_kQnTZKa00kHUaZ2zfUi2QPUUrsn/view) to view my walkthrough video on
-Click [here](https://drive.google.com/file/d/1kGHzCdRpyUNATIAsqauTuiXvN0E6A7fK/view?usp=sharing) to view my walkthrough video on Javascript testing.
+Click [here](https://drive.google.com/file/d/1if7Fc_uQ4LpPZIaEzmAVrUqnY-ZRTXHn/view) to view my walkthrough video on Javascript testing.
