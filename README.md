@@ -19,7 +19,7 @@ In this project, I have build a node.js command line application that takes in i
 
 ## What did we do?
 
-Generate a web[age that displays my team's basic information so that I have quick access to their emails and Github profiles.
+Generate a webpage that displays my team's basic information so that I have quick access to their emails and Github profiles.
 
 - [x] Given a command-line application that accepts user input
 - [x] When I am prompted for my team members and their information, then an HTML file is generated that displays a nicely formatted team roster based on user input
