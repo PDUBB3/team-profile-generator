@@ -83,7 +83,7 @@ npm run test:watch
 
 ![The html file created by using a command-line application](./assets/img/teamprof.png)
 
-Click [here](./dist/team.html) to view example of readme file generated
+Click [here](./dist/team.html) to view example of the HTML file generated
 
 ## Walkthrough Video
 
